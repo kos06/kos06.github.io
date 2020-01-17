@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(backimage.JPG);
+  background-image: url(backimage.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -27,15 +27,14 @@ a {
 
 .main-container{
   background-color: rgba(0,176,240,1);
-  
+  width: 400px
+  heigth: 400px
 }
 
 .main-container h1{
   opacity: 1;
-  font-size: 100px;
+  font-size: 60px;
   letter-spacing: 5px;
-  padding: 20px 10px;
-  
 }
 
 .main-container p {
